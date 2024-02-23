@@ -1,0 +1,28 @@
+form {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+}
+
+label {
+  margin-right: 10px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 28px;
+}
+
+input {
+  margin-right: 10px;
+  border-radius: 6px; 
+}
+
+button {
+  border-radius: 6px;
+  color: black;
+}
+
+.todo {
+  font-weight: bold;
+  font-size: 20px
+}
